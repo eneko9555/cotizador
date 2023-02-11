@@ -29,7 +29,7 @@ function App() {
     const valor =  cantidad - STEP;
 
     if(valor < MIN) {
-      Swal.fire('Cantidad no válida')
+      Swal.fire('Cantidad no válida!')
       return;
     };
 
