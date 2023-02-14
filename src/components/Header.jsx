@@ -3,7 +3,7 @@ function Header(){
 
     return (
         <h1 className="text-4xl font-extrabold text-gray-500 text-center">
-            ¿Cuánto <span className="text-indigo-500">dinero </span> necesitas?
+            ¿Cuánto <span className="text-indigo-500">Dinero </span> necesitas?
         </h1>
     )
 }
